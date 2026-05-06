@@ -30,7 +30,7 @@
 
 | 类别 | 技术 |
 |:---|:---|
-| **引擎** | Unity 2021.3 LTS（2D URP） |
+| **引擎** | Unity 2023.2.20 |
 | **编程语言** | C# |
 | **关卡搭建** | Tilemap（Rule Tile + Animated Tile） |
 | **动画系统** | Animator + Blend Tree |
@@ -42,3 +42,6 @@
 
 ---
 
+## B站视频演示链接
+
+- https://www.bilibili.com/video/BV1HMRxBLEpN/
