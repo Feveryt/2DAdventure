@@ -33,7 +33,7 @@
 | **引擎** | Unity 2023.2.20 |
 | **编程语言** | C# |
 | **关卡搭建** | Tilemap（Rule Tile + Animated Tile） |
-| **动画系统** | Animator + Blend Tree |
+| **动画系统** | Animator |
 | **输入系统** | Input System（新版） |
 | **敌人 AI** | 有限状态机（FSM） |
 | **UI 框架** | UGUI + 事件系统 |
